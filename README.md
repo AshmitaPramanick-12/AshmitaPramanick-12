@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cachebuster=AshmitaPramanick)
 
-### 🐍 My Contributions
-![Snake animation](https://github.com/AshmitaPramanick-12/AshmitaPramanick-12/blob/output/github-contribution-grid-snake-dark.svg)
+### 📈 GitHub Activity Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=AshmitaPramanick-12&theme=react-dark&hide_border=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
