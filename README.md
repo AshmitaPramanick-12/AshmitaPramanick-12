@@ -28,12 +28,9 @@ Here are some ideas to get you started:
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cachebuster=AshmitaPramanick)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AshmitaPramanick-12&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=AshmitaPramanick-12&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🐍 My Contributions
+![Snake animation](https://github.com/AshmitaPramanick-12/AshmitaPramanick-12/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
